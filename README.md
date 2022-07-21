@@ -4,7 +4,9 @@ I'm Clary, a PhD candidate in chemical engineering at the University of Pennsylv
 
 🌱 I’m currently learning SQL and Tableau, which are tools that I did not get exposed to during my engineering studies.
 
-😄 Pronouns: she/her
+💬 Ask me about PhD programs in engineering and how academia give you much more than lab skills and publications
+
+Pronouns: she/her
 
 <!--
 **claryrodz/claryrodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
