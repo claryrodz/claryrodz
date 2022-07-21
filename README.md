@@ -1,4 +1,4 @@
-### Hola! 👋
+### Hola! 👩‍🔬
 
 I'm Clary, a PhD candidate in chemical engineering at the University of Pennsylvania. I use data science and satistical tools to understand the dynamics of multi-particle systems (currently soft "squishy" materials 🔬 and stock market indexes 📈).
 
