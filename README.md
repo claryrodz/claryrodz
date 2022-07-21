@@ -6,9 +6,9 @@ I'm Clary, a PhD candidate in chemical engineering at the University of Pennsylv
 
 💬 Ask me about PhD programs in engineering and how academia can give you much more than lab skills and publications.
 
-Pronouns: she/her
-
 Outside tech, my other passions include tennis 🎾 and exploring my island PR🇵🇷🏖️.
+
+Pronouns: she/her
 
 <!--
 **claryrodz/claryrodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
