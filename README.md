@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Clary, a PhD candidate in chemical engineering at the University of Pennsylvania. I use data science and satistical tools to provide a better understanding for the dynamics of multi-particle systems (currently soft "squishy" materials 🔬 and stock market indexes 📈).
+
+🌱 I’m currently learning SQL and Tableau, which are tools that I did not get exposed to during my engineering studies.
+
+😄 Pronouns: she/her
+
 <!--
 **claryrodz/claryrodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
