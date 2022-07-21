@@ -4,7 +4,7 @@ I'm Clary, a PhD candidate in chemical engineering at the University of Pennsylv
 
 🌱 I’m currently learning SQL and Tableau, which are tools that I did not get exposed to during my engineering studies.
 
-💬 Ask me about PhD programs in engineering and how academia can give you so much more than lab skills and publications
+💬 Ask me about PhD programs in engineering and how academia can give you much more than lab skills and publications
 
 Pronouns: she/her
 
