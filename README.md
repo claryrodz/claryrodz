@@ -8,7 +8,7 @@ I'm Clary, a PhD candidate in chemical engineering at the University of Pennsylv
 
 Pronouns: she/her
 
-Outside tech, my other passions include tennis 🎾 and exploring my island (PR🇵🇷🏖️).
+Outside tech, my other passions include tennis 🎾 and exploring my island PR🇵🇷🏖️.
 
 <!--
 **claryrodz/claryrodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
